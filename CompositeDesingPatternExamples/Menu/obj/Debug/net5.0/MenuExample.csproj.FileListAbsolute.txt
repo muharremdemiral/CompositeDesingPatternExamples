@@ -1,0 +1,16 @@
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\bin\Debug\net5.0\MenuExample.exe
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\bin\Debug\net5.0\MenuExample.deps.json
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\bin\Debug\net5.0\MenuExample.runtimeconfig.json
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\bin\Debug\net5.0\MenuExample.runtimeconfig.dev.json
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\bin\Debug\net5.0\MenuExample.dll
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\bin\Debug\net5.0\MenuExample.pdb
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\MenuExample.csproj.AssemblyReference.cache
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\MenuExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\MenuExample.AssemblyInfoInputs.cache
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\MenuExample.AssemblyInfo.cs
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\MenuExample.csproj.CoreCompileInputs.cache
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\MenuExample.dll
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\refint\MenuExample.dll
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\MenuExample.pdb
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\MenuExample.genruntimeconfig.cache
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\Menu\obj\Debug\net5.0\ref\MenuExample.dll

@@ -1,0 +1,16 @@
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\bin\Debug\net5.0\CompanyExample.exe
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\bin\Debug\net5.0\CompanyExample.deps.json
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\bin\Debug\net5.0\CompanyExample.runtimeconfig.json
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\bin\Debug\net5.0\CompanyExample.runtimeconfig.dev.json
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\bin\Debug\net5.0\CompanyExample.dll
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\bin\Debug\net5.0\CompanyExample.pdb
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\CompanyExample.csproj.AssemblyReference.cache
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\CompanyExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\CompanyExample.AssemblyInfoInputs.cache
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\CompanyExample.AssemblyInfo.cs
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\CompanyExample.csproj.CoreCompileInputs.cache
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\CompanyExample.dll
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\refint\CompanyExample.dll
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\CompanyExample.pdb
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\CompanyExample.genruntimeconfig.cache
+C:\Users\PC-COOLER\source\repos\CompositeDesingPatternExamples\EmployeeExample\obj\Debug\net5.0\ref\CompanyExample.dll
